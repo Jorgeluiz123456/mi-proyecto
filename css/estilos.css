@@ -110,17 +110,17 @@ nav ul li a:hover {
 }
 
 #icono1 {
-    background: url(../img/dev.png) center no-repeat;
+    background: url(../img/jorge.png) center no-repeat;
     background-size: cover;
 }
 
 #icono2 {
-    background: url(../img/cloud.png) center no-repeat;
+    background: url(../img/jorge1.png) center no-repeat;
     background-size: cover;
 }
 
 #icono3 {
-    background: url(../img/security.png) center no-repeat;
+    background: url(../img/jorge2.png) center no-repeat;
     background-size: cover;
 }
 
